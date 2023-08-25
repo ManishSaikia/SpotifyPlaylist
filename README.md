@@ -29,4 +29,4 @@ Welcome to the documentation of my Spotify Playlist Generator project! This Pyth
 1. Follow the installation steps above.
 2. Run the script to generate your playlist.
 3. The script will ask a date (YYYY-MM-DD).
-4. The script will authenticate with Spotify, fetch Billboard data, and create the playlist.****
+4. The script will authenticate with Spotify, fetch Billboard data, and create the playlist.
